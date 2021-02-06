@@ -14,7 +14,7 @@
 
 	</view>
 
-	<view name="basic, detailed, video">
+	<view name="basic, detailed, video, grid">
 	
 		<image name="logo">
 			<path>./../assets/Amstrad.png</path>

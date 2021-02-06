@@ -21,7 +21,7 @@
 
 	</view>
 
-	<view name="basic, detailed, video">	
+	<view name="basic, detailed, video, grid">	
 		
 		<text name="system_name_1" extra="true">
 			<text>Nintendo Wii/text>

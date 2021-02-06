@@ -14,7 +14,15 @@
 
 	</view>
 
-	<view name="basic, detailed, video">
+	<view name="grid">
+
+		<gridtile name="selected">
+			<backgroundColor>ba0001</backgroundColor>
+		</gridtile>
+
+	</view>
+
+	<view name="basic, detailed, video, grid">
 	
 		<image name="logo">
 			<path>./../assets/Nintendo.png</path>
@@ -22,7 +30,7 @@
 		
 		<textlist name="gamelist">
 			<selectorColor>ba0001</selectorColor>
-		</textlist>	
+		</textlist>
 		
 		<text name="system_name_1" extra="true">
 			<text>Nintendo Entertainment System</text>
